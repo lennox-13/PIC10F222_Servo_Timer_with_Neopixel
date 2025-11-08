@@ -21,3 +21,6 @@ PIC10F222 – Servo Timer 10. seconds to 13. minutes with Battery Status (WS2812
 
  Notes:
  - Battery level is read once at startup; timing is ratiometric (pot vs VDD), so it does not drift with battery voltage.
+
+ Trapdoor dumper :-)
+ ![Trap door dumper](Servo_Timer.jpg)
