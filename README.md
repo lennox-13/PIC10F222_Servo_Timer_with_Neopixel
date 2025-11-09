@@ -25,4 +25,10 @@ PIC10F222 – Servo Timer 10. seconds to 13. minutes with Battery Status (WS2812
 ![Schamatics](Schema.jpg)
 
  Trapdoor dumper :-)
- ![Trap door dumper](Servo_Timer.jpg)
+ ![Trap door dumper](Images/Servo_Timer_2.jpg)
+
+ Back side
+ ![Trap door dumper](Images/Servo_Timer_3.jpg)
+
+ Payload deployed
+ ![Trap door dumper](Images/Servo_Timer_4.jpg)
